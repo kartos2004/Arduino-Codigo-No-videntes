@@ -1,5 +1,7 @@
 # Arduino-Codigo-No-videntes
-Proyecto Arduino para personas no Videntes Basado en detectar obstáculos 
+Proyecto Arduino para personas no Videntes 
+Basado en detectar obstáculos 
+
 const int trigPins[3] = {13, 11, 9};   // Trig: Frente, Izquierda, Derecha
 const int echoPins[3] = {12, 10, 8};   // Echo: Frente, Izquierda, Derecha
 
